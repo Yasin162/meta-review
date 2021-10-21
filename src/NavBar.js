@@ -24,7 +24,7 @@ const NavBar = () => {
             </NavLink>
 
             <NavLink
-                to="/Reviews" 
+                to="/reviews" 
                 exact
                 style={linkStyles}
         /* add prop for activeStyle */

@@ -1,10 +1,11 @@
 import React from 'react'
-
+import Wrapper from './Wrapper';
 const Home = () => {
     return (
-        <div>
+        <Wrapper>
             <h1>MetaReview</h1>
-        </div>
+            <h2>This app allows you to make a review of anything</h2>
+        </Wrapper>
     )
 }
 
