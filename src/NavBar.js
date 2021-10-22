@@ -19,7 +19,7 @@ const NavBar = () => {
                 to="/" 
                 exact
                 style={linkStyles}
-        activeStyle={{background: "darkblue",}}>
+        activeStyle={{background: "darkblue"}}>
               Home
             </NavLink>
 
